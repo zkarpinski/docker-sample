@@ -8,11 +8,11 @@ Docker example with 2 intermediate images and a final image.
 ## Images
 python:3.11.5-slim-bullseye \
 🠋 \
-zkarpniski/a \
+zkarpinski/a \
 🠋 \
-zkarpniski/b \
+zkarpinski/b \
 🠋 \
-**zkarpniski/final**
+**zkarpinski/final**
 
 ## Building
 ```
